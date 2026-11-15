@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Stride" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1B6B47</item>
+        <item name="android:windowBackground">#F6FBF8</item>
+    </style>
+</resources>
